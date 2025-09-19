@@ -21,11 +21,11 @@ team_data <- tibble(
            "member 3", "member 4"),
   github_username = c("mcgregors-garden", "username 1", "username 2", 
                       "username 3", "username 4"), 
-  colour = c("powderblue", "colour 1", "colour 2", 
-             "colour 3", "colour 4"),
+  colour = c("powderblue", "tomato3" , "tan2", 
+             "wheat2", "peru"),
   hobby = c("Hopping", "hobby 1", "hobby 2", 
             "hobby 3", "hobby 4"),
-  favourite_number = c(2, NA, NA, NA, NA)
+  favourite_number = c(2, 5, 7, 2, 3)
   )
 
 team_data
